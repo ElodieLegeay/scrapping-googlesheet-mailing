@@ -1,5 +1,5 @@
 require 'google_drive'
-require_relative 'townhall-scrapElo'
+require_relative 'mairies-scrapElo'
 require 'json'
 $data = get_hash
 
